@@ -1,0 +1,17 @@
+D:\code\cs\imageConverter\imageConverter\bin\Debug\net6.0-windows\imageConverter.exe
+D:\code\cs\imageConverter\imageConverter\bin\Debug\net6.0-windows\imageConverter.deps.json
+D:\code\cs\imageConverter\imageConverter\bin\Debug\net6.0-windows\imageConverter.runtimeconfig.json
+D:\code\cs\imageConverter\imageConverter\bin\Debug\net6.0-windows\imageConverter.dll
+D:\code\cs\imageConverter\imageConverter\bin\Debug\net6.0-windows\imageConverter.pdb
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.csproj.AssemblyReference.cache
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.ImageConverter.resources
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.csproj.GenerateResource.cache
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.AssemblyInfoInputs.cache
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.AssemblyInfo.cs
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.csproj.CoreCompileInputs.cache
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.dll
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\refint\imageConverter.dll
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.pdb
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\imageConverter.genruntimeconfig.cache
+D:\code\cs\imageConverter\imageConverter\obj\Debug\net6.0-windows\ref\imageConverter.dll

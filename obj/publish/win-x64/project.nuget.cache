@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSydOcdmA05r6eMYg7uW7jD9kZnolj/ZLG1ZmWxYVLicApliF8/5hphqcqxZ4U9zX4iX9xKpl3Qc1zYjNIebqg==",
+  "success": true,
+  "projectFilePath": "D:\\code\\cs\\imageConverter\\imageConverter\\imageConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimlin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\jimlin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\jimlin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

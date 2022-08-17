@@ -1,0 +1,7 @@
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\imageConverter.pdb
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\PenImc_cor3.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\PresentationNative_cor3.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\vcruntime140_cor3.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\wpfgfx_cor3.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\win-x64\imageConverter.exe

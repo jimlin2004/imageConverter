@@ -1,0 +1,5 @@
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\imageConverter.exe
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\imageConverter.dll
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\imageConverter.deps.json
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\imageConverter.runtimeconfig.json
+D:\code\cs\imageConverter\imageConverter\bin\Release\net6.0-windows\publish\imageConverter.pdb

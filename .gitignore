@@ -1,0 +1,5 @@
+img_test\
+obj\
+bin\Release\net6.0-windows
+bin\Release\imageConverter.zip
+*.user
