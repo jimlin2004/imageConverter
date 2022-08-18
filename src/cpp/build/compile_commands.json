@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/code/cpp/imageConverter_cpp_cmake/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1432~1.313\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DimageConverter_cpp_EXPORTS -ID:\\cpp_lib\\opencv\\build\\include -ID:\\code\\cpp\\imageConverter_cpp_cmake\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imageConverter_cpp.dir\\src\\imageConverter_cpp.cpp.obj /FdCMakeFiles\\imageConverter_cpp.dir/ /FS -c D:\\code\\cpp\\imageConverter_cpp_cmake\\src\\imageConverter_cpp.cpp",
+  "file": "D:/code/cpp/imageConverter_cpp_cmake/src/imageConverter_cpp.cpp"
+}
+]
